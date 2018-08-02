@@ -1,0 +1,1 @@
+﻿This repository contains homework assignments for the course "Spring2"
